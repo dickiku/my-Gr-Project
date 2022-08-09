@@ -1,0 +1,72 @@
+
+.gbr, .kop{
+    width: 200px;
+    height: 100px;
+}
+
+p{
+    margin: 0;
+    line-height: normal;
+}
+
+p.kta{
+    margin-left: 70px;
+}
+
+.tanda-tangan{
+    float: right;
+}
+
+.line{
+    line-height: 2;
+}
+
+.text-header, .sek{
+    font-size: 20px;
+}
+
+.text-header{
+    font-weight: bold;
+}
+
+.text-tebal{
+    font-weight: bold;
+}
+
+.border1{
+    border: 1px solid black;
+    margin-bottom: 0;
+    margin-top: 4px;
+}
+
+.border2{
+    border: 2px solid black;
+    margin-bottom: 0;
+    margin-top: 3px;
+}
+
+.kode-desa, .pengantar{
+    text-decoration: underline;
+}
+
+.pengantar, .no-surat, .nama-tanda-tangan{
+    text-align: center;
+}
+
+.keterangan-tanda-tangan{
+    text-indent: 0.3in;
+}
+
+.tgl-krinjing{
+    text-align: right;
+    float: right;
+}
+
+.nama-kades{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.margin-bagian-bawah{
+    margin-top: 100px;
+}
